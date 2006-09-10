@@ -1,0 +1,11 @@
+.nie bedzie zrobione
+* optymalizacja kontenerow
+
+.do zrobienia
+* wczytywanie procesu
+* wylaczanie napisow w rozkladzie inf
+* infekcja SIR
+* wirus przenoszacy inf zwrotna
+
+.aktualnie robione
+
